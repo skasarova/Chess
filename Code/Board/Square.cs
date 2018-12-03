@@ -44,5 +44,6 @@ namespace Chess.Code.Board
             this.CurrentPiece = null;
             this.Empty = true;
         }
+        // test
     }
 }
