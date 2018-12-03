@@ -15,6 +15,5 @@ namespace Chess.Code.Board
         {
            //todo: think of a smart way to fill the collection - should every piece class have a collection of the current pieces?
         }
-
     }
 }
