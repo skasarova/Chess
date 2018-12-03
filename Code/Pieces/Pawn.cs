@@ -8,7 +8,6 @@ namespace Chess.Code.Pieces
     public class Pawn : Piece
     {
         private const string type = "P";
-        private const int count = 8;
         public Pawn(string color) : base(color, type)
         {
         }
